@@ -9,15 +9,21 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="_Scripts" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerLook.cs" t="Include" />
           <e p="PlayerMotor.cs" t="Include" />
+          <e p="PlayerShoot.cs" t="Include" />
         </e>
-        <e p="Desert Environment" t="Include">
-          <e p="Example" t="Include">
-            <e p="AutoMoveAndRotate.cs" t="Include" />
-          </e>
-          <e p="Models" t="Include">
-            <e p="Shaders" t="Include">
-              <e p="WindShader.shader" t="Include" />
+        <e p="Design" t="Include">
+          <e p="Desert Environment" t="Include">
+            <e p="Example" t="Include">
+              <e p="AutoMoveAndRotate.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="WindShader.shader" t="Include" />
+              </e>
             </e>
           </e>
         </e>
